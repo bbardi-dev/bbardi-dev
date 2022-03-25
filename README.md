@@ -1,7 +1,7 @@
 <h1 align="center">My name is Balázs, welcome to my profile 👋</h1>
 <h3 align="center">I'm a full-stack developer.</h3>
 
-https://img.shields.io/website?label=Portfolio&logo=About.me&logoColor=%23FFE76A&style=for-the-badge&up_color=%23FFE76A&up_message=b-bardi.com&url=https%3A%2F%2Fb-bardi.com
+[![Website]https://img.shields.io/website?label=Portfolio&logo=About.me&logoColor=%23FFE76A&style=for-the-badge&up_color=%23FFE76A&up_message=b-bardi.com&url=https%3A%2F%2Fb-bardi.com](b-bardi.com)
 
 - 🔭 Working on: **becoming a better developer (and human being)**
 
