@@ -103,11 +103,10 @@
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer" >
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"
       alt="express"
       width="32"
       height="32"
-      style="background-color: white"
     />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
