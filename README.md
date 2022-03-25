@@ -12,7 +12,7 @@
 
 - 📫 Reach me at: **bbardi.dev@gmail.com**
 
-<h3 align="left">🛠 Some of my skills:</h3>
+<h3 align="left">🛠 Technical skills:</h3>
 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
