@@ -101,12 +101,13 @@
       height="32"
     />
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="background-color: white">
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer" >
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
       alt="express"
       width="32"
       height="32"
+      style="background-color: white"
     />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
