@@ -12,7 +12,7 @@
 
 - 📫 Reach me at: **bbardi.dev@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠 Some of my skills:</h3>
 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -95,7 +95,7 @@
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
       alt="nodejs"
       width="32"
       height="32"
