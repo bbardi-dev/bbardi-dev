@@ -8,7 +8,7 @@
 
 - 👯 Currently looking for: **a full-time position.**
 
-- 👨‍💻 Check out my portfolio at: **[b-bardi.com](b-bardi.com)**
+- 👨‍💻 Check out my portfolio at: **[b-bardi.com](https://b-bardi.com)**
 
 - 📫 Reach me at: **bbardi.dev@gmail.com**
 
