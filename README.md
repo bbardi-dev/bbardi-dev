@@ -135,7 +135,7 @@
   </a>
     <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/jest-color.svg"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/jest.svg"
       alt="jest"
       width="32"
       height="32"
