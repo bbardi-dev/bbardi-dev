@@ -6,8 +6,6 @@
 
 - 🌱 Learning: **all things web development.**
 
-- 👯 Currently looking for: **a full-time position.**
-
 - 👨‍💻 Check out my portfolio at: **[b-bardi.com](https://b-bardi.com)**
 
 - 📫 Reach me at: **bbardi.dev@gmail.com**
